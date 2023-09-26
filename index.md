@@ -3,3 +3,4 @@
 
 ## General :
   * [Pricing](pricing.md)
+  * [Cronitor](cronitor.md)

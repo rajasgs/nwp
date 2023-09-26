@@ -15,3 +15,7 @@ https://futurestud.io/university
 
 https://futurestud.io/learningpaths/retrofit-basics
 ![ABC](https://github.com/rajasgs/nwp/blob/main/images/futurestud-io-learningpaths-1.png?raw=true)
+
+
+https://opencollective.com/localstack#backers
+![ABC](https://github.com/rajasgs/nwp/blob/main/images/backers.png?raw=true)

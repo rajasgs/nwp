@@ -19,3 +19,15 @@ https://futurestud.io/learningpaths/retrofit-basics
 
 https://opencollective.com/localstack#backers
 ![ABC](https://github.com/rajasgs/nwp/blob/main/images/backers.png?raw=true)
+
+
+https://www.lingoda.com/en/
+![ABC](https://github.com/rajasgs/nwp/blob/main/images/lingoda.png?raw=true)
+
+
+https://learn.lingoda.com/en/login
+lingoda-login.png
+
+
+https://www.comet.com/rajasgs/audio-urbansound8k/5dbe91ce25634e339437c0ec588197db?experiment-tab=panels&showOutliers=true&smoothing=0&xAxis=step
+cometml-panels.png
